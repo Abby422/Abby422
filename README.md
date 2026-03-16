@@ -1,25 +1,27 @@
-# Hi there, I'm Abigail Theuri 👋
+# Hi there, I'm Abigail Theuri
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Frontend+Developer+%7C+MERN+Stack;MSc+Researcher+%7C+AI+%26+Plant+Disease+Detection;Open+to+Opportunities+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Developer+%7C+MEAN+Stack;MSc+Researcher+%7C+AI+%26+Plant+Disease+Detection;Open+to+Opportunities+%26+Collaboration" alt="Typing SVG" />
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 Pursuing my **Master's research** in **Tomato Leaf Disease Detection** using machine learning & computer vision
-- 💼 Working as a **Frontend Developer** with the **MERN Stack** (MongoDB, Express, React, Node.js)
-- 🌱 Constantly learning and building at the intersection of **AI** and **web development**
-- 🤝 Open to **collaborations**, **freelance projects**, and **job opportunities**
-- 🎯 Passionate about building clean, user-friendly interfaces and solving real-world problems with code
-- 🎲 Fun fact: I'm a competitive **Scrabble** player — so yes, I take words as seriously as I take code!
+- Pursuing my **Master's research** in **Tomato Leaf Disease Detection** using machine learning & computer vision
+- Working as an **Angular Developer** with the **MEAN Stack** (MongoDB, Express, Angular, Node.js)
+- Experienced in both **React** and **Angular** frontend frameworks
+- Constantly learning and building at the intersection of **AI** and **web development**
+- Open to **collaborations**, **freelance projects**, and **job opportunities**
+- Passionate about building clean, user-friendly interfaces and solving real-world problems with code
+- Fun fact: I'm a competitive **Scrabble** player — so yes, I take words as seriously as I take code!
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,7 +41,7 @@
 
 ---
 
-## 🔬 Current Research
+## Current Research
 
 > **Tomato Leaf Disease Detection using Deep Learning**
 >
@@ -47,16 +49,16 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-- 🛒 **[Ecommerce Product App](https://github.com/Abby422/Ecommerce-Product)** — A frontend ecommerce product listing built with JavaScript
-- ✅ **[To-Do App](https://github.com/Abby422/To-Do-app)** — A clean and functional task management app
-- 🤰 **[Pregnancy Tracker](https://github.com/Abby422/pregnancy-tracker)** — A helpful app for tracking pregnancy milestones
-- 💡 **[Advice Generator](https://github.com/Abby422/Advice-Generator)** — React app using the Advice Slip API to deliver random advice
+- **[Ecommerce Product App](https://github.com/Abby422/Ecommerce-Product)** — A frontend ecommerce product listing built with JavaScript
+- **[To-Do App](https://github.com/Abby422/To-Do-app)** — A clean and functional task management app
+- **[Pregnancy Tracker](https://github.com/Abby422/pregnancy-tracker)** — A helpful app for tracking pregnancy milestones
+- **[Advice Generator](https://github.com/Abby422/Advice-Generator)** — React app using the Advice Slip API to deliver random advice
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abby422&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -65,7 +67,7 @@
 
 ---
 
-## 🌍 Let's Connect
+## Let's Connect
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abigail-theuri/" target="_blank">
@@ -79,5 +81,5 @@
 ---
 
 <div align="center">
-  <i>"Code like a poet, debug like a detective, and play Scrabble like a champion. 🏆"</i>
+  <i>"Code like a poet, debug like a detective, and play Scrabble like a champion."</i>
 </div>
