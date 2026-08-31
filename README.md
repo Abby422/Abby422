@@ -55,16 +55,7 @@
 - **[To-Do App](https://github.com/Abby422/To-Do-app)** — A clean and functional task management app
 - **[Advice Generator](https://github.com/Abby422/Advice-Generator)** — React app using the Advice Slip API to deliver random advice
 
----
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abby422&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abby422&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
----
 
 ## Let's Connect
 
