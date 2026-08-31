@@ -53,7 +53,6 @@
 
 - **[Ecommerce Product App](https://github.com/Abby422/Ecommerce-Product)** — A frontend ecommerce product listing built with JavaScript
 - **[To-Do App](https://github.com/Abby422/To-Do-app)** — A clean and functional task management app
-- **[Pregnancy Tracker](https://github.com/Abby422/pregnancy-tracker)** — A helpful app for tracking pregnancy milestones
 - **[Advice Generator](https://github.com/Abby422/Advice-Generator)** — React app using the Advice Slip API to deliver random advice
 
 ---
